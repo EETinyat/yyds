@@ -1,0 +1,6 @@
+
+train: /root/autodl-tmp/VOCdata2/dataset/train/images
+val: /root/autodl-tmp/VOCdata2/dataset/val/images
+
+nc: 1
+names: ['fire']
