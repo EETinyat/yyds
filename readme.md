@@ -51,6 +51,9 @@ pip install ultralytics
 
 剪枝与量化训练结果保存在runs/train4/exp2文件夹下
 
+runs文件夹暂时未上传
+
+
 在所有文件夹中，模型统一保存在weights文件夹下
 
 各个文件夹下都包含有F1曲线、混淆矩阵等图片
